@@ -1051,8 +1051,8 @@ def norm_api(a):
     return a
 
 
-ENC_LOADER = "./ys/loader.py"
-ENC_BASE = "https://raw.githubusercontent.com/laozheng520/jk/refs/heads/mai/enc/"
+ENC_LOADER = "https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/ys/loader.py"
+ENC_BASE = "https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc"
 
 
 def enc_site_of(entry):
@@ -1061,6 +1061,15 @@ def enc_site_of(entry):
         return ext.get("site") or ""
     except Exception:
         return ""
+
+
+def local_py_exists(site):
+    if not site:
+        return False
+    for cand in (site + ".py", site):
+        if os.path.isfile(os.path.join(PYY_DIR, cand)):
+            return True
+    return False
 
 
 def main():
@@ -1149,14 +1158,20 @@ def main():
             others.append(s)
             continue
         api = (s.get("api") or "").strip()
-        if api == ENC_LOADER:
+        is_loader = api == ENC_LOADER or api.lower().endswith("/loader.py")
+        if is_loader:
             site = enc_site_of(s)
-            if site in enc_alive:
+            if site and site in enc_alive:
                 kept_enc.append(s)
-            else:
+            elif site and local_py_exists(site):
                 dropped += 1
+            else:
+                others.append(s)
             continue
         na = norm_api(api)
+        if na.startswith("http://") or na.startswith("https://"):
+            others.append(s)
+            continue
         if na.endswith(".py") and na:
             fp = os.path.normpath(os.path.join(ROOT, na))
             if fp in ok_normal_set:
