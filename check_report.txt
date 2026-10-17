@@ -1,3 +1,17 @@
-检测时间: 2026-10-17 07:12:01
-共 0 条 (新增 0, 保留 0, 加密新增 0, 加密保留 0, 清理 0, 删除文件 0)
-死源 0 个:
+检测时间: 2026-10-17 07:41:36
+共 191 条 (新增 0, 保留 0, 加密新增 78, 加密保留 0, 清理 140, 删除文件 14)
+死源 14 个:
+  - 6080xinshijue.py (网址均失效(连接失败))
+  - LIBVIO.py (网址均失效(连接失败))
+  - baihuayingyuan.py (网址均失效(连接失败))
+  - baiyangyingyuan.py (网址均失效(连接失败))
+  - diqiyingyuan.py (网址均失效(HTTP 502))
+  - dusheyingshi.py (网址均失效(HTTP 408))
+  - gongheguodongman.py (网址均失效(HTTP 520))
+  - hanxiaoquan.py (网址均失效(连接失败))
+  - reboAPP.py (网址均失效(连接失败))
+  - tudaoyingyuan.py (网址均失效(连接失败))
+  - wangfeimao.py (网址均失效(HTTP 408))
+  - weilaiyingyuan.py (网址均失效(连接失败))
+  - yingkeduanju.py (网址均失效(连接失败))
+  - zaixianduanju.py (网址均失效(连接失败))
