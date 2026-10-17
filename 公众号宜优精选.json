@@ -103,7 +103,7 @@
       "name": "💕 枫斗三线 💕 ",
       "type": 3,
       "api": "./ys/loader.py",
-      "ext": "{\"site\": \"FoFoyingyuan\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/mai/enc/\", \"name\": \"枫斗三线\"}",
+      "ext": "{\"site\": \"FoFoyingyuan\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/mai/enc\", \"name\": \"枫斗三线\"}",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -113,7 +113,7 @@
       "name": "💕 枫斗四线 💕 ",
       "type": 3,
       "api": "./ys/loader.py",
-      "ext": "{\"site\": \"MiFundongman\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/mai/enc/\", \"name\": \"枫斗四线\"}",
+      "ext": "{\"site\": \"MiFundongman\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/mai/enc\", \"name\": \"枫斗四线\"}",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -123,7 +123,7 @@
       "name": "💕 枫斗五线 💕 ",
       "type": 3,
       "api": "./ys/loader.py",
-      "ext": "{\"site\": \"VSyingyuan\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/mai/enc/\", \"name\": \"枫斗五线\"}",
+      "ext": "{\"site\": \"VSyingyuan\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/mai/enc\", \"name\": \"枫斗五线\"}",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -133,7 +133,7 @@
       "name": "💕 枫斗六线 💕 ",
       "type": 3,
       "api": "./ys/loader.py",
-      "ext": "{\"site\": \"ZIP0yingshi\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/mai/enc/\", \"name\": \"枫斗六线\"}",
+      "ext": "{\"site\": \"ZIP0yingshi\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/mai/enc\", \"name\": \"枫斗六线\"}",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -143,7 +143,7 @@
       "name": "💕 枫斗七线 💕 ",
       "type": 3,
       "api": "./ys/loader.py",
-      "ext": "{\"site\": \"bajieyingshi\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/mai/enc/\", \"name\": \"枫斗七线\"}",
+      "ext": "{\"site\": \"bajieyingshi\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/mai/enc\", \"name\": \"枫斗七线\"}",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -163,7 +163,7 @@
       "name": "💕 枫斗九线 💕 ",
       "type": 3,
       "api": "./ys/loader.py",
-      "ext": "{\"site\": \"caijijuhe\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/mai/enc/\", \"name\": \"枫斗九线\"}",
+      "ext": "{\"site\": \"caijijuhe\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/mai/enc\", \"name\": \"枫斗九线\"}",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -173,7 +173,7 @@
       "name": "💕 枫斗十线 💕 ",
       "type": 3,
       "api": "./ys/loader.py",
-      "ext": "{\"site\": \"chabeihu\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/mai/enc/\", \"name\": \"枫斗十线\"}",
+      "ext": "{\"site\": \"chabeihu\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/mai/enc\", \"name\": \"枫斗十线\"}",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -183,7 +183,7 @@
       "name": "💕 枫斗十一线 💕 ",
       "type": 3,
       "api": "./ys/loader.py",
-      "ext": "{\"site\": \"chujianyingshi\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/mai/enc/\", \"name\": \"枫斗十一线\"}",
+      "ext": "{\"site\": \"chujianyingshi\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/mai/enc\", \"name\": \"枫斗十一线\"}",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -193,7 +193,7 @@
       "name": "💕 枫斗十二线 💕 ",
       "type": 3,
       "api": "./ys/loader.py",
-      "ext": "{\"site\": \"daishuyingshi\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/mai/enc/\", \"name\": \"枫斗十二线\"}",
+      "ext": "{\"site\": \"daishuyingshi\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/mai/enc\", \"name\": \"枫斗十二线\"}",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -203,7 +203,7 @@
       "name": "💕 枫斗十三线 💕 ",
       "type": 3,
       "api": "./ys/loader.py",
-      "ext": "{\"site\": \"damahou\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/mai/enc/\", \"name\": \"枫斗十三线\"}",
+      "ext": "{\"site\": \"damahou\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/mai/enc\", \"name\": \"枫斗十三线\"}",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -223,7 +223,7 @@
       "name": "💕 枫斗十五线 💕 ",
       "type": 3,
       "api": "./ys/loader.py",
-      "ext": "{\"site\": \"didayingshi\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/mai/enc/\", \"name\": \"枫斗十五线\"}",
+      "ext": "{\"site\": \"didayingshi\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/mai/enc\", \"name\": \"枫斗十五线\"}",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -233,7 +233,7 @@
       "name": "💕 枫斗十六线 💕 ",
       "type": 3,
       "api": "./ys/loader.py",
-      "ext": "{\"site\": \"diduanyingshi\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/mai/enc/\", \"name\": \"枫斗十六线\"}",
+      "ext": "{\"site\": \"diduanyingshi\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/mai/enc\", \"name\": \"枫斗十六线\"}",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -243,7 +243,7 @@
       "name": "💕 枫斗十七线 💕 ",
       "type": 3,
       "api": "./ys/loader.py",
-      "ext": "{\"site\": \"diekayingshi\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/mai/enc/\", \"name\": \"枫斗十七线\"}",
+      "ext": "{\"site\": \"diekayingshi\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/mai/enc\", \"name\": \"枫斗十七线\"}",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
