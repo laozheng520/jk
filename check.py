@@ -1051,8 +1051,8 @@ def norm_api(a):
     return a
 
 
-ENC_LOADER = "http://xn--oev29b.top/files/py/loader.py"
-ENC_BASE = "http://xn--oev29b.top/files/enc"
+ENC_LOADER = "https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/ys/loader.py"
+ENC_BASE = "https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc/"
 
 
 def enc_site_of(entry):
