@@ -53,7 +53,7 @@
       "name": "💕 60影视 💕 ",
       "type": 3,
       "api": "https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/ys/loader.py",
-      "ext": "{\"site\": \"6080yingshi\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc/\", \"name\": \"60影视\"}",
+      "ext": "{\"site\": \"6080yingshi\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"60影视\"}",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -63,7 +63,7 @@
       "name": "💕 66大片 💕 ",
       "type": 3,
       "api": "https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/ys/loader.py",
-      "ext": "{\"site\": \"66dapianwang\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc/\", \"name\": \"66大片\"}",
+      "ext": "{\"site\": \"66dapianwang\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"66大片\"}",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -73,7 +73,7 @@
       "name": "💕 80影院 💕 ",
       "type": 3,
       "api": "https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/ys/loader.py",
-      "ext": "{\"site\": \"808yingyuan\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc/\", \"name\": \"80影院\"}",
+      "ext": "{\"site\": \"808yingyuan\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"80影院\"}",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
