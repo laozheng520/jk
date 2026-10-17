@@ -9,7 +9,13 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from urllib.parse import urlparse
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
-PYY_DIR = os.path.join(ROOT, "PY")
+for _cand in ("enc", "pya", "pyy"):
+    _p = os.path.join(ROOT, _cand)
+    if os.path.isdir(_p):
+        PYY_DIR = _p
+        break
+else:
+    PYY_DIR = os.path.join(ROOT, "PY")
 API_JSON = os.path.join(ROOT, "公众号宜优精选.json")
 SCAN_EXCLUDE = {"__init__", "base", "spider", "main", "config"}
 DEEP_WORKERS = 10
