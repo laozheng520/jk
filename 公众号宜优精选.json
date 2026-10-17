@@ -52,8 +52,8 @@
       "key": "456dianyingwang",
       "name": "💕 45电影 💕 ",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/ys/loader.py",
-      "ext": "{\"site\": \"456dianyingwang\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"45电影\"}",
+      "api": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/ys/loader.py",
+      "ext": "{\"site\": \"456dianyingwang\", \"base\": \"https://v6.gh-proxy.org/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"45电影\"}",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -62,8 +62,8 @@
       "key": "6080yingshi",
       "name": "💕 60影视 💕 ",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/ys/loader.py",
-      "ext": "{\"site\": \"6080yingshi\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"60影视\"}",
+      "api": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/ys/loader.py",
+      "ext": "{\"site\": \"6080yingshi\", \"base\": \"https://v6.gh-proxy.org/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"60影视\"}",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
