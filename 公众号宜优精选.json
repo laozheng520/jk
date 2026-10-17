@@ -52,7 +52,7 @@
       "key": "6080yingshi",
       "name": "💕 60影视 💕 ",
       "type": 3,
-      "api": "./ys/loader.py",
+      "api": "https://raw.githubusercontent.com/laozheng520/jk/refs/heads/mai/ys/loader.py",
       "ext": "{\"site\": \"6080yingshi\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/mai/enc/\", \"name\": \"60影视\"}",
       "searchable": 1,
       "quickSearch": 1,
