@@ -16,7 +16,7 @@ for _cand in ("enc", "pya", "pyy"):
         break
 else:
     PYY_DIR = os.path.join(ROOT, "PY")
-API_JSON = os.path.join(ROOT, "公众号宜优精选.json")
+API_JSON = os.path.join(ROOT, "公众号-宜优精选.json")
 SCAN_EXCLUDE = {"__init__", "base", "spider", "main", "config"}
 DEEP_WORKERS = 10
 URL_TIMEOUT = 10
