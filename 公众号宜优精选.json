@@ -62,7 +62,7 @@
       "key": "6080yingshi",
       "name": "💕 60影视 💕 ",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/ys/loader.py",
+      "api": "./ys/loader.py",
       "ext": "{\"site\": \"6080yingshi\", \"base\": \"https://ghfast.top/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"60影视\"}",
       "searchable": 1,
       "quickSearch": 1,
