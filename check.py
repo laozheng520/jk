@@ -1051,8 +1051,8 @@ def norm_api(a):
     return a
 
 
-ENC_LOADER = "https://v6.gh-proxy.org/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/ys/loader.py"
-ENC_BASE = "https://v6.gh-proxy.org/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc"
+ENC_LOADER = "./ys/loader.py"
+ENC_BASE = "https://ghfast.top/https://v6.gh-proxy.org/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc"
 
 
 def enc_site_of(entry):
