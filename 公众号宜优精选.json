@@ -83,7 +83,7 @@
       "name": "💕 枫斗一线 💕 ",
       "type": 3,
       "api": "./ys/loader.py",
-      "ext": "{\"site\": \"ASMRba\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc/\", \"name\": \"枫斗一线\"}",
+      "ext": "{\"site\": \"ASMRba\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"枫斗一线\"}",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -93,7 +93,7 @@
       "name": "💕 枫斗二线 💕 ",
       "type": 3,
       "api": "./ys/loader.py",
-      "ext": "{\"site\": \"CNFLIX\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc/\", \"name\": \"枫斗二线\"}",
+      "ext": "{\"site\": \"CNFLIX\", \"base\": \"https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"枫斗二线\"}",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
