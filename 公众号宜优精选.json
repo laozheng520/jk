@@ -48,16 +48,7 @@
     }
   ],
   "sites": [
-    {
-      "key": "456dianyingwang",
-      "name": "💕 45电影 💕 ",
-      "type": 3,
-      "api": "./ys/loader.py",
-      "ext": "{\"site\": \"456dianyingwang\", \"base\": \"https://ghfast.top/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"45电影\"}",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    
     {
       "key": "6080yingshi",
       "name": "💕 60影视 💕 ",
