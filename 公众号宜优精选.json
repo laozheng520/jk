@@ -48,7 +48,6 @@
     }
   ],
   "sites": [
-    
     {
       "key": "6080yingshi",
       "name": "💕 60影视 💕 ",
@@ -145,16 +144,6 @@
       "type": 3,
       "api": "./ys/loader.py",
       "ext": "{\"site\": \"66dapianwang\", \"base\": \"https://ghfast.top/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"66大片\"}",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "808yingyuan",
-      "name": "💕 80影院 💕 ",
-      "type": 3,
-      "api": "./ys/loader.py",
-      "ext": "{\"site\": \"808yingyuan\", \"base\": \"https://ghfast.top/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"80影院\"}",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1635,6 +1624,26 @@
       "type": 3,
       "api": "./ys/loader.py",
       "ext": "{\"site\": \"gongheguodongman\", \"base\": \"https://ghfast.top/https://v6.gh-proxy.org/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"枫斗一线\"}",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "456dianyingwang",
+      "name": "💕 45电影 💕 ",
+      "type": 3,
+      "api": "./ys/loader.py",
+      "ext": "{\"site\": \"456dianyingwang\", \"base\": \"https://ghfast.top/https://v6.gh-proxy.org/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"45电影\"}",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "808yingyuan",
+      "name": "💕 80影院 💕 ",
+      "type": 3,
+      "api": "./ys/loader.py",
+      "ext": "{\"site\": \"808yingyuan\", \"base\": \"https://ghfast.top/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"80影院\"}",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
