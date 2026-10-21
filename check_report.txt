@@ -1,6 +1,6 @@
-检测时间: 2026-10-21 03:43:04
-共 277 条 (新增 0, 保留 0, 加密新增 1, 加密保留 162, 清理 0, 删除文件 32)
-死源 32 个:
+检测时间: 2026-10-21 16:47:34
+共 277 条 (新增 0, 保留 0, 加密新增 0, 加密保留 161, 清理 0, 删除文件 34)
+死源 34 个:
   - 6080xinshijue.py (网址均失效(连接失败))
   - 99duanjuwang.py (网址均失效(连接失败))
   - DJyouyou.py (网址均失效(HTTP 404))
@@ -15,11 +15,13 @@
   - dantaTV.py (网址均失效(连接失败))
   - diqiyingyuan.py (网址均失效(HTTP 502))
   - djgemyinyuewang.py (网址均失效(HTTP 404))
+  - gongheguodongman.py (网址均失效(HTTP 520))
   - guanfengyingshi.py (网址均失效(连接失败))
   - gulugulu.py (网址均失效(HTTP 404))
   - hanxiaoquan.py (网址均失效(连接失败))
   - paopaoyingyuan.py (网址均失效(HTTP 520))
   - reboAPP.py (网址均失效(连接失败))
+  - shiliuduanju.py (网址均失效(连接失败))
   - shouyingwang.py (网址均失效(HTTP 456))
   - shuabutingduanju.py (网址均失效(连接失败))
   - tudaoyingyuan.py (网址均失效(连接失败))
