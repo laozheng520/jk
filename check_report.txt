@@ -1,11 +1,12 @@
-检测时间: 2026-10-23 16:39:52
-共 277 条 (新增 0, 保留 0, 加密新增 0, 加密保留 160, 清理 0, 删除文件 35)
-死源 35 个:
+检测时间: 2026-10-24 03:41:24
+共 277 条 (新增 0, 保留 0, 加密新增 0, 加密保留 159, 清理 0, 删除文件 36)
+死源 36 个:
   - 6080xinshijue.py (网址均失效(连接失败))
+  - 808yingyuan.py (网址均失效(连接失败))
   - 99duanjuwang.py (网址均失效(连接失败))
   - DJyouyou.py (网址均失效(HTTP 404))
   - PTTxianshangkan.py (网址均失效(连接失败))
-  - aiyifan.py (网址均失效(连接失败))
+  - aiyifan.py (网址均失效(HTTP 523))
   - baduyingyuan.py (网址均失效(连接失败))
   - baihuayingyuan.py (网址均失效(连接失败))
   - baiyangyingyuan.py (网址均失效(连接失败))
@@ -35,4 +36,4 @@
   - yingshidaquan.py (网址均失效(连接失败))
   - yitingshuwang.py (网址均失效(连接失败))
   - yunduoshipin_guanti.py (网址均失效(HTTP 456))
-  - yuntuyingshi.py (网址均失效(连接失败))
+  - yuntuyingshi.py (网址均失效(HTTP 404))
