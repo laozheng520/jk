@@ -1,4 +1,4 @@
-检测时间: 2026-10-25 15:45:16
+检测时间: 2026-10-26 03:42:26
 共 277 条 (新增 0, 保留 0, 加密新增 0, 加密保留 160, 清理 0, 删除文件 35)
 死源 35 个:
   - 6080xinshijue.py (网址均失效(连接失败))
@@ -35,4 +35,4 @@
   - yingshidaquan.py (网址均失效(连接失败))
   - yitingshuwang.py (网址均失效(连接失败))
   - yunduoshipin_guanti.py (网址均失效(HTTP 456))
-  - yuntuyingshi.py (网址均失效(HTTP 404))
+  - yuntuyingshi.py (网址均失效(连接失败))
