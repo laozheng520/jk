@@ -1,6 +1,6 @@
-检测时间: 2026-10-26 03:42:26
-共 277 条 (新增 0, 保留 0, 加密新增 0, 加密保留 160, 清理 0, 删除文件 35)
-死源 35 个:
+检测时间: 2026-10-26 18:25:16
+共 277 条 (新增 0, 保留 0, 加密新增 0, 加密保留 158, 清理 0, 删除文件 37)
+死源 37 个:
   - 6080xinshijue.py (网址均失效(连接失败))
   - 99duanjuwang.py (网址均失效(连接失败))
   - DJyouyou.py (网址均失效(HTTP 404))
@@ -19,6 +19,7 @@
   - guanfengyingshi.py (网址均失效(连接失败))
   - gulugulu.py (网址均失效(HTTP 404))
   - hanxiaoquan.py (网址均失效(连接失败))
+  - jisuzhuiju.py (网址均失效(连接失败))
   - paopaoyingyuan.py (网址均失效(HTTP 520))
   - reboAPP.py (网址均失效(连接失败))
   - shiliuduanju.py (网址均失效(连接失败))
@@ -28,6 +29,7 @@
   - wangfeimaoyingshi_guanti.py (网址均失效(HTTP 408))
   - wawaAPP.py (网址均失效(HTTP 404))
   - weilaiyingyuan_guanti.py (网址均失效(连接失败))
+  - xiaomifengyingyuan.py (网址均失效(HTTP 504))
   - xingchenyingyuan.py (网址均失效(连接失败))
   - xingheyingshi.py (网址均失效(连接失败))
   - xiongdiyingshi.py (网址均失效(连接失败))
@@ -35,4 +37,4 @@
   - yingshidaquan.py (网址均失效(连接失败))
   - yitingshuwang.py (网址均失效(连接失败))
   - yunduoshipin_guanti.py (网址均失效(HTTP 456))
-  - yuntuyingshi.py (网址均失效(连接失败))
+  - yuntuyingshi.py (网址均失效(HTTP 404))

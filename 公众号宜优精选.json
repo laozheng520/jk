@@ -849,16 +849,6 @@
       "filterable": 1
     },
     {
-      "key": "jisuzhuiju",
-      "name": "💕 枫斗六十七线 💕 ",
-      "type": 3,
-      "api": "./ys/loader.py",
-      "ext": "{\"site\": \"jisuzhuiju\", \"base\": \"https://ghfast.top/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"枫斗六十七线\"}",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "juhezhibo",
       "name": "💕 枫斗六十八线 💕 ",
       "type": 3,
@@ -1629,21 +1619,31 @@
       "filterable": 1
     },
     {
-      "key": "xiaomifengyingyuan",
-      "name": "💕 枫斗114线 💕 ",
-      "type": 3,
-      "api": "./ys/loader.py",
-      "ext": "{\"site\": \"xiaomifengyingyuan\", \"base\": \"https://ghfast.top/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"枫斗114线\"}",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "808yingyuan",
       "name": "💕 80影院 💕 ",
       "type": 3,
       "api": "./ys/loader.py",
       "ext": "{\"site\": \"808yingyuan\", \"base\": \"https://ghfast.top/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"80影院\"}",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jisuzhuiju",
+      "name": "💕 枫斗六十七线 💕 ",
+      "type": 3,
+      "api": "./ys/loader.py",
+      "ext": "{\"site\": \"jisuzhuiju\", \"base\": \"https://ghfast.top/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"枫斗六十七线\"}",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "xiaomifengyingyuan",
+      "name": "💕 枫斗114线 💕 ",
+      "type": 3,
+      "api": "./ys/loader.py",
+      "ext": "{\"site\": \"xiaomifengyingyuan\", \"base\": \"https://ghfast.top/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"枫斗114线\"}",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
