@@ -1649,6 +1649,16 @@
       "filterable": 1
     },
     {
+      "key": "canchiduanjuwang",
+      "name": "💕 枫斗一线 💕 ",
+      "type": 3,
+      "api": "./ys/loader.py",
+      "ext": "{\"site\": \"canchiduanjuwang\", \"base\": \"https://ghfast.top/https://v6.gh-proxy.org/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"枫斗一线\"}",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "duonaoyingyuan",
       "name": "💕 枫斗四十七线 💕 ",
       "type": 3,
