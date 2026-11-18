@@ -1599,6 +1599,16 @@
       "filterable": 1
     },
     {
+      "key": "tudaoyingyuan",
+      "name": "💕 枫斗一线 💕 ",
+      "type": 3,
+      "api": "./ys/loader.py",
+      "ext": "{\"site\": \"tudaoyingyuan\", \"base\": \"https://ghfast.top/https://v6.gh-proxy.org/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"枫斗一线\"}",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "diqiyingyuan",
       "name": "💕 第七影院 💕 ",
       "type": 3,
@@ -1614,16 +1624,6 @@
       "type": 3,
       "api": "./ys/loader.py",
       "ext": "{\"site\": \"shiliuduanju\", \"base\": \"https://ghfast.top/https://v6.gh-proxy.org/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"十六短剧\"}",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "tudaoyingyuan",
-      "name": "💕 枫斗一线 💕 ",
-      "type": 3,
-      "api": "./ys/loader.py",
-      "ext": "{\"site\": \"tudaoyingyuan\", \"base\": \"https://ghfast.top/https://v6.gh-proxy.org/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"枫斗一线\"}",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
