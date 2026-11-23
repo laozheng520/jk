@@ -1549,6 +1549,26 @@
       "filterable": 1
     },
     {
+      "key": "fandaziyingshi",
+      "name": "💕 饭搭子影 💕 ",
+      "type": 3,
+      "api": "./ys/loader.py",
+      "ext": "{\"site\": \"fandaziyingshi\", \"base\": \"https://ghfast.top/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"饭搭子影\"}",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "diqiyingyuan",
+      "name": "💕 第七影院 💕 ",
+      "type": 3,
+      "api": "./ys/loader.py",
+      "ext": "{\"site\": \"diqiyingyuan\", \"base\": \"https://ghfast.top/https://v6.gh-proxy.org/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"第七影院\"}",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "gongheguodongman",
       "name": "💕 枫斗一线 💕 ",
       "type": 3,
@@ -1589,16 +1609,6 @@
       "filterable": 1
     },
     {
-      "key": "fandaziyingshi",
-      "name": "💕 饭搭子影 💕 ",
-      "type": 3,
-      "api": "./ys/loader.py",
-      "ext": "{\"site\": \"fandaziyingshi\", \"base\": \"https://ghfast.top/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"饭搭子影\"}",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "pomo",
       "name": "💕 枫斗八十九线 💕 ",
       "type": 3,
@@ -1624,16 +1634,6 @@
       "type": 3,
       "api": "./ys/loader.py",
       "ext": "{\"site\": \"juxiafan4K\", \"base\": \"https://ghfast.top/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"枫斗七十线\"}",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "diqiyingyuan",
-      "name": "💕 第七影院 💕 ",
-      "type": 3,
-      "api": "./ys/loader.py",
-      "ext": "{\"site\": \"diqiyingyuan\", \"base\": \"https://ghfast.top/https://v6.gh-proxy.org/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"第七影院\"}",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
