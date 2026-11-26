@@ -479,16 +479,6 @@
       "filterable": 1
     },
     {
-      "key": "dusheduanju",
-      "name": "💕 枫斗四十八线 💕 ",
-      "type": 3,
-      "api": "./ys/loader.py",
-      "ext": "{\"site\": \"dusheduanju\", \"base\": \"https://ghfast.top/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"枫斗四十八线\"}",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "dusheyingshi",
       "name": "💕 枫斗四十九线 💕 ",
       "type": 3,
@@ -1564,6 +1554,16 @@
       "type": 3,
       "api": "./ys/loader.py",
       "ext": "{\"site\": \"pomo\", \"base\": \"https://ghfast.top/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"枫斗八十九线\"}",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dusheduanju",
+      "name": "💕 枫斗四十八线 💕 ",
+      "type": 3,
+      "api": "./ys/loader.py",
+      "ext": "{\"site\": \"dusheduanju\", \"base\": \"https://ghfast.top/https://raw.githubusercontent.com/laozheng520/jk/refs/heads/main/enc\", \"name\": \"枫斗四十八线\"}",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
