@@ -1,4 +1,4 @@
-检测时间: 2026-11-27 20:50:02
+检测时间: 2026-11-28 06:47:43
 共 282 条 (新增 0, 保留 0, 加密新增 0, 加密保留 154, 清理 0, 删除文件 41)
 死源 41 个:
   - 4k.py (网址均失效(连接失败))
@@ -14,17 +14,16 @@
   - canchiduanjuwang.py (网址均失效(连接失败))
   - caomeiyingshi.py (网址均失效(HTTP 404))
   - changzhangyingshi.py (网址均失效(连接失败))
-  - dadatuyingyuan_guanti.py (网址均失效(连接失败))
   - dantaTV.py (网址均失效(连接失败))
   - diqiyingyuan.py (网址均失效(HTTP 502))
   - djgemyinyuewang.py (网址均失效(HTTP 404))
   - dusheduanju.py (网址均失效(HTTP 500))
   - guanfengyingshi.py (网址均失效(连接失败))
   - gulugulu.py (网址均失效(HTTP 404))
-  - hanxiaoquan.py (网址均失效(连接失败))
   - huayiyingshi.py (网址均失效(连接失败))
   - juxiafan4K.py (网址均失效(连接失败))
   - juzhishipin.py (网址均失效(连接失败))
+  - kaixinyingyuan.py (网址均失效(HTTP 404))
   - paopaoyingyuan.py (网址均失效(HTTP 520))
   - reboAPP.py (网址均失效(连接失败))
   - shiliuduanju.py (网址均失效(连接失败))
@@ -42,3 +41,4 @@
   - yingshidaquan.py (网址均失效(连接失败))
   - yunduoshipin_guanti.py (网址均失效(HTTP 456))
   - zhenlangyingshi.py (网址均失效(连接失败))
+  - zhuiying.py (网址均失效(HTTP 404))
