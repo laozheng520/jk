@@ -1,0 +1,96 @@
+{
+  "spider": "./custom_spider.jar",
+  "wallpaper": "./wallpaper.jpg",
+  "logo": "./logo.jpg",
+  "sites": [
+    {
+      "key": "push_agent",
+      "name": "Push",
+      "type": 3,
+      "api": "csp_Push"
+    }
+  ],
+  "lives": [
+    {
+      "name": "Live",
+      "url": "./live.json",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
+    }
+  ],
+  "parses": [
+    {
+      "name": "官方",
+      "type": 1,
+      "url": "https://google.com/api/?url="
+    }
+  ],
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    }
+  ],
+  "proxy": [
+    {
+      "name": "自訂",
+      "hosts": [
+        "googlevideo.com",
+        "raw.githubusercontent.com"
+      ],
+      "urls": [
+        "http://127.0.0.1:7890"
+      ]
+    },
+    {
+      "name": "全局",
+      "hosts": [
+        ".*."
+      ],
+      "urls": [
+        "socks5://127.0.0.1:7891"
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "hosts": [
+        "api.52wyb.com"
+      ],
+      "regex": [
+        "m3u8?pt=m3u8"
+      ],
+      "exclude": [
+        "test.json"
+      ]
+    },
+    {
+      "hosts": [
+        "www.maolvys.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+      ]
+    }
+  ],
+  "headers": [
+    {
+      "host": "gslbserv.itv.cmvideo.cn",
+      "header": {
+        "User-Agent": "okhttp/3.12.13"
+      }
+    }
+  ],
+  "hosts": [
+    "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
+  ],
+  "flags": [
+    "qq"
+  ],
+  "ads": [
+    "static-mozai.4gtv.tv"
+  ]
+}
